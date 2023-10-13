@@ -1,6 +1,6 @@
 ## Graph-Skeleton
 
-This anonymous repository is for a code demo on dataset DGraph in  "Graph-Skeleton: 10% Node is Sufficient to Represent Massive Graph Data" (NeurIPS'23)
+This anonymous repository is for a code demo in  "Graph-Skeleton: Less than 2% Nodes are Sufficient to Represent Billion-Scale Graph" (WWW'24)
 
 
 
